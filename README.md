@@ -1,6 +1,6 @@
 # DEMO
 
-DEMO OF GIT FOR MYSELF
+DEMO OF GIT FOR MYSELF.
 
 clone: Bring repository to local folder
 add: track and make changes in GIT
