@@ -2,6 +2,8 @@
 
 DEMO OF GIT FOR MYSELF.
 
+## CommandsofGit
+
 clone: Bring repository to local folder
 add: track and make changes in GIT
 commit: save your files
